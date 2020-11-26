@@ -1,0 +1,12 @@
+A - Pedir impresora
+B - Usar impresora
+C - Devolver impresora
+D - Pedir pantalla
+E - Usar pantalla
+F - Devolver pantalla
+G - Pedir teclado
+H - Usar teclado
+I - Devolver teclado
+O - Ejecutar operacion O
+P - Ejecutar Operacion P
+Q - Ejecutar Operacion Q
